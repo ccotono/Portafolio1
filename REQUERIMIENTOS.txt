@@ -1,0 +1,15 @@
+Requerimientos:
+-5 paginas (Home-About Me-Potfolio-Contact-IHYWT).
+
+-2 formularios con 5 campos [Contact(name, email, phone, subject, message, etc..) -I Help You With That(name, email, phone, about you, how can i help you)].
+
+-Responsividad en las 5 paginas.
+
+-Validacion de los campos de formularios mediante JS.
+
+-Conectar con API Rest externa (firebase en mi caso).
+
+-Utilizar eventos(click, DOMContentLoaded y otros), crear funciones para funcionar como callbacks y manipular el DOM mediante funciones nativos de jQuery.
+
+-Generar 3 commits de avances semanales y describir los avances (documentar el proyecto usando archivo README.md
+-Desplegar el proyecto en Github pages.
