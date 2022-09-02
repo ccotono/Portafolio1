@@ -9,7 +9,7 @@ Requerimientos:
 
 -Conectar con API Rest externa (firebase en mi caso).
 
--Utilizar eventos(click, DOMContentLoaded y otros), crear funciones para funcionar como callbacks y manipular el DOM mediante funciones nativos de jQuery.
+-Utilizar eventos(click, DOMContentLoaded y otros), crear funciones para funcionar como callbacks y manipular el DOM mediante funciones nativas de jQuery.
 
 -Generar 3 commits de avances semanales y describir los avances (documentar el proyecto usando archivo README.md
 -Desplegar el proyecto en Github pages.
